@@ -1,1 +1,16 @@
 @charset "utf-8";
+
+
+ul {
+  font-size: 17px;
+}
+h3 {
+  font-size: 25px;
+}
+body {
+  background-color: #ccffff
+}
+font {
+  color: #9999ff;
+  size: 20px
+}
