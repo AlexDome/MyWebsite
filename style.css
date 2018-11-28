@@ -14,3 +14,8 @@ font {
   color: #9999ff;
   size: 20px
 }
+.column {
+  float: left;
+  width: 44.44%;
+  padding: 10px;
+}
