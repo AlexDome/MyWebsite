@@ -20,3 +20,13 @@ font {
   padding: 10px;
 }
 @media screen and (min-width: 500px) and (max-width: 700px)
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+.right {
+  width: 50%;
+  float: left;
+}
