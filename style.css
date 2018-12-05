@@ -21,7 +21,7 @@ font {
 }
 @media screen and (min-width: 500px) and (max-width: 700px)
 
-left {
+.left {
   width: 50%;
   float: left;
 }
@@ -40,5 +40,7 @@ img {
 	width: 100%
 }
 img {
-	height: auto 
+	height: auto
+}
+@media (min-width: 800px) and (max-width: 1194px){
 }
